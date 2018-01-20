@@ -1,0 +1,37 @@
+* {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.3px;
+}
+
+:root {
+  --color-primary: rgb(33, 150, 243);
+}
+
+html,
+body {
+  font-size: 16px;
+}
+
+.wrapper {
+  margin-top: 5rem;
+  text-align: center;
+}
+
+.title {
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.text {
+  margin-bottom: 1rem;
+}
+
+.link {
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
