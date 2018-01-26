@@ -1,5 +1,5 @@
 # Days App
 
-Support site for the Days iOS App.
+[Support site](https://danielmoi.github.io/days-support-site/) for the Days iOS App.
 
-https://danielmoi.github.io/days-support-site/
+You can find the app at the App Store [here](https://itunes.apple.com/us/app/days-app/id1337948584).
